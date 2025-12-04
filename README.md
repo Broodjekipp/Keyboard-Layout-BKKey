@@ -20,7 +20,3 @@ This gives you easy access to accented characters while keeping standard punctua
 4. Navigate to the generated `setup` folder
 5. Run `setup.exe`
 6. The keyboard layout will now be available in Windows Settings under **Time & Language > Language > Keyboard**
-
-## Usage
-
-After installation, switch to the BKKey layout through your Windows language bar or keyboard settings.
