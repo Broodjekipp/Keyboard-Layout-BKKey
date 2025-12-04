@@ -15,7 +15,7 @@ This gives you easy access to accented characters while keeping standard punctua
 ## Installation
 
 1. Download and install [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
-2. Open the `.klc` file with **Ctrl + O** in MSKLC
+2. Open the `.klc` file with **Ctrl + O** in MSKLC (you can edit the layout if needed)
 3. Go to **Project > Build DLL and Setup Package**
 4. Navigate to the generated `setup` folder
 5. Run `setup.exe`
