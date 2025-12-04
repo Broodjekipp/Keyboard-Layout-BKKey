@@ -1,6 +1,6 @@
 # BKKey Keyboard Layout
 
-A modified US-International keyboard layout for Windows that makes dead keys more accessible.
+A modified US-International keyboard layout for Windows that makes typing dead keys easier while keeping accents accessible.
 
 ## Features
 
