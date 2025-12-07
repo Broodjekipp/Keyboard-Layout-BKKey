@@ -12,6 +12,13 @@ In the standard US-International layout, keys like `'`, `"`, `` ` ``, `~`, and `
 
 This gives you easy access to accented characters while keeping standard punctuation quick to type.
 
+
+### Superscript & Subscript Support
+
+This layout also adds convenient access to superscript and subscript characters using dedicated dead keys. Superscripts are available via **Alt Gr + Shift + 6**, and subscripts via **Alt Gr + Shift + 7**.
+
+**Example:** Type `¹` by pressing **Alt Gr + Shift + 6**, then **1**.
+
 ## Installation
 
 1. Download and install [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
